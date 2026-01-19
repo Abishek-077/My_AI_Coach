@@ -1,23 +1,11 @@
 
 
-# A project made for
-
-# ST5010CEM Enterprise Project
-
-# AI Coach: Basketball Feedback System
-
-**AI Coach** delivers modular, coach-grade feedback by combining video analysis, semantic scoring, and LLM-driven recommendations.
-
-It is coursework assigned by: Sofwarica College of IT and Ecommerce
+**AI Coach** delivers modular, coach-grade feedback by combining video analysis, semantic scoring, and LLM-driven recommendations
 
 
 This project is made by : 
-        Sarjak Bhandari (230383) 
         Anisha Sah (230338)
-        Rabindra Bhattarai (2230372)
 
-
----
 
 ##  Features
 
